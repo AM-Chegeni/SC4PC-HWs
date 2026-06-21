@@ -1,0 +1,13 @@
+N = 4
+Approximate memory for A, B, C = 0.000 GB
+a = 2
+b = 3
+Expected C_ij = N*a*b = 24
+Loop ordering = ijk
+Elapsed time  = 0.000001907 seconds
+Checksum: sum(C) = 384
+Expected sum     = 384
+Checksum diff    = 0
+Full element-wise check: PASS
+Fast checksum check:     PASS
+Matrix C saved to: C_N4.txt
