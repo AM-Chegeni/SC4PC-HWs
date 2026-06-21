@@ -1,0 +1,5 @@
+hw07
+*.o
+data/*.csv
+plots/*.png
+__pycache__/
