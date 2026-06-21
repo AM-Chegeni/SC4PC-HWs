@@ -1,0 +1,4 @@
+a*x + y with 17 significant digits: 7.3999999999999995
+a*x + y with 20 decimal digits: 7.39999999999999946709
+Direct comparison with 7.4: false
+Tolerance comparison |result - 7.4| < 1e-12: true

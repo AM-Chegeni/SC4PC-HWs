@@ -1,0 +1,15 @@
+# Compiled executables
+vector_sum
+vector_sum_memory_light
+floating_point_test
+
+# Object files
+*.o
+
+# Temporary outputs
+*.out
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode/

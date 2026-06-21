@@ -1,0 +1,11 @@
+N = 1000000
+a = 3, x = 0.10000000000000001, y = 7.0999999999999996
+Expected a*x + y = 7.3999999999999995
+Expected printed with 20 decimals = 7.39999999999999946709
+Mathematical value for a=3, x=0.1, y=7.1 is 7.4, but binary floating point may print 7.399999999999999...
+Maximum absolute error in d = 0
+Number of elements failing tolerance 1.0e-12: 0
+Result: PASS
+Compute time: 0.030000 s
+Check time: 0.000000 s
+Approximate memory used by vectors: 0.024 GB
