@@ -1,0 +1,4 @@
+legendre_stability
+results/*.csv
+results/*.png
+__pycache__/
